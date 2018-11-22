@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "echarts": "^4.2.0-rc.2",
+    "echarts-gl": "^1.1.1",
+    "less": "^3.8.1",
+    "less-loader": "^4.1.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
